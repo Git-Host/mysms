@@ -10,7 +10,7 @@
 #
 
 # TODO:
-IPSEC_PSK=IKEv2
+IPSEC_PSK=vpn
 VPN_USER=vpn
 VPN_PASSWORD=vpn
 
